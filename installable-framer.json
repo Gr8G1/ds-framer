@@ -1,0 +1,9 @@
+{
+  "outDir": "./src/framer",
+  "components": {
+    "accordion": "https://framer.com/m/Components-Accordion-xSXx.js",
+    "banner": "https://framer.com/m/Components-Banner-lnaZ.js",
+    "buttons": "https://framer.com/m/Components-Buttons-CD6f.js",
+    "slideshow": "https://framer.com/m/Slideshow-jg8v.js"
+  }
+}
